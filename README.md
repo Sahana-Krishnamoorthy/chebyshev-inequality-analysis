@@ -5,7 +5,7 @@ This project analyzes atmospheric carbon monoxide (CO) concentration data using 
 ## 📊 Dataset
 
 ATom: Observed and GEOS-5 Simulated CO Concentrations with Tagged Tracers for ATom-1
-The dataset was obtained from [NASA Earth Data website](https://earthdata.nasa.gov/)
+The dataset was obtained from [NASA Earth Data website](https://search.earthdata.nasa.gov/search/granules?p=C2704963648-ORNL_CLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&ff=Available%20in%20Earthdata%20Cloud&gdf=Excel!CSV&tl=1736831091!3!!&fpb0=Air-based%20Platforms&lat=20.4609375&long=74.63671875&zoom=4)
 
 ### Dataset Description
 This dataset provides carbon monoxide (CO) observations at 10-second intervals from the Atmospheric Tomography Mission (ATom-1) flights conducted in 2016. It also includes simulated CO concentrations from the Goddard Earth Observing System version 5 (GEOS-5) model, matched to the same locations along the ATom flight tracks. The ATom mission is a NASA Earth Venture Suborbital-2 mission aimed at studying the impact of human-produced air pollution on greenhouse gases and chemically reactive gases in the atmosphere.
